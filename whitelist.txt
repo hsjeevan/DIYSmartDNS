@@ -1,7 +1,5 @@
-# ----------------------Jio-Hotstar----------------------
 akamaiedge.net
 akamai.net
 akadns.net
 hotstarext.com
 hotstar.com
----------------------------------------------------------
